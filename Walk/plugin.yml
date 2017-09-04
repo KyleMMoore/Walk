@@ -1,0 +1,9 @@
+name: Walk
+main: epixauce.walk.Walk
+author: Epixauce
+version: 1.0
+description: Immersive walk speeds
+commands:
+  Walk:
+    description: Slows player to a more realistic walking pace.
+    usage: /walk
